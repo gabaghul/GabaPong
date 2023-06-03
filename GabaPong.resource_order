@@ -16,5 +16,8 @@
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"ball","order":1,"path":"sprites/ball/ball.yy",},
+    {"name":"frame","order":1,"path":"sprites/frame/frame.yy",},
+  ],
 }

@@ -34,7 +34,10 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
+    {"id":{"name":"ball","path":"sprites/ball/ball.yy",},},
+    {"id":{"name":"frame","path":"sprites/frame/frame.yy",},},
     {"id":{"name":"player","path":"sprites/player/player.yy",},},
+    {"id":{"name":"midfield","path":"sprites/midfield/midfield.yy",},},
     {"id":{"name":"pong_field","path":"rooms/pong_field/pong_field.yy",},},
   ],
   "RoomOrderNodes": [
