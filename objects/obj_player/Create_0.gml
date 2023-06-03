@@ -1,1 +1,2 @@
-spd = 1.5
+current_spd = 0
+max_spd = 3
