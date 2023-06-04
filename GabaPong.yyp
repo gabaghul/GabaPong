@@ -27,7 +27,10 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Pixel Square 10.ttf","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Pixel Square Bold10.ttf","CopyToMask":-1,"filePath":"datafiles",},
+  ],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
@@ -43,6 +46,7 @@
     {"id":{"name":"spr_v_wall","path":"sprites/spr_v_wall/spr_v_wall.yy",},},
     {"id":{"name":"init_params","path":"scripts/init_params/init_params.yy",},},
     {"id":{"name":"spr_midfield","path":"sprites/spr_midfield/spr_midfield.yy",},},
+    {"id":{"name":"obj_p1_score","path":"objects/obj_p1_score/obj_p1_score.yy",},},
     {"id":{"name":"pong_field","path":"rooms/pong_field/pong_field.yy",},},
   ],
   "RoomOrderNodes": [

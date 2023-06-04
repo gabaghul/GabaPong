@@ -24,5 +24,6 @@
     {"name":"obj_v_wall","order":2,"path":"objects/obj_v_wall/obj_v_wall.yy",},
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"spr_v_wall","order":3,"path":"sprites/spr_v_wall/spr_v_wall.yy",},
+    {"name":"obj_p1_score","order":4,"path":"objects/obj_p1_score/obj_p1_score.yy",},
   ],
 }
