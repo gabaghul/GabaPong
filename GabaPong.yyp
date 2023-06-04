@@ -41,6 +41,7 @@
     {"id":{"name":"obj_v_wall","path":"objects/obj_v_wall/obj_v_wall.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_v_wall","path":"sprites/spr_v_wall/spr_v_wall.yy",},},
+    {"id":{"name":"init_params","path":"scripts/init_params/init_params.yy",},},
     {"id":{"name":"spr_midfield","path":"sprites/spr_midfield/spr_midfield.yy",},},
     {"id":{"name":"pong_field","path":"rooms/pong_field/pong_field.yy",},},
   ],
