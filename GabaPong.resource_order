@@ -17,6 +17,8 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_ball","order":3,"path":"objects/obj_ball/obj_ball.yy",},
+    {"name":"spr_ball","order":4,"path":"sprites/spr_ball/spr_ball.yy",},
     {"name":"bg","order":2,"path":"sprites/bg/bg.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"obj_v_wall","order":2,"path":"objects/obj_v_wall/obj_v_wall.yy",},
