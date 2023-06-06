@@ -4,8 +4,6 @@ y_center = room_height/2
 x = x_center
 y = y_center
 
-// 
-
 // speed
 max_spd = 3
 collision_spd = max_spd + 2

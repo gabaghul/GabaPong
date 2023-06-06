@@ -17,13 +17,13 @@ if !place_free(x, y + collision_spd) || !place_free(x, y - collision_spd) {
 }
 
 if x < 0 {
-	p2_score++
+	global.p2_score++
 	x = x_center
 	y = y_center	
 	
 	init_params()
 } else if x > room_width {
-	p1_score++
+	global.p1_score++
 	x = x_center
 	y = y_center	
 	
